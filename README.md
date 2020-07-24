@@ -1,2 +1,2 @@
 # Learning-Django-Framework
-This repository contain codes for learning Django
+This repository contains code for learning Django
